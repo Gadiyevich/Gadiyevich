@@ -1,6 +1,7 @@
 # Hello, I am Rahman Gadiyev <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2> 
 
-<img align="right" width="300px" src="./bio-image.svg" />
+
+<img align="right" width="300px" src="./bio.svg" />
 
 <p align="left">
   <a href="mailto:gadiyevich0@gmail.com">
